@@ -1,6 +1,6 @@
 cask "hearth-app" do
-  version "0.1.5"
-  sha256 "9c845de63eab31edc5494fe3dd22a54ecc684d77fc76792ac77a7abefc6a3e59"
+  version "0.1.6"
+  sha256 "bbaf3d2a6bf2cafdcb6d97a88e8bfb2c2f0a158c1ae6c72323116d050b7012ec"
 
   url "https://github.com/ducheharsh/hearth/releases/download/v#{version}/Hearth-#{version}.dmg"
   name "Hearth"
