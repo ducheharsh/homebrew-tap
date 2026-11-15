@@ -10,6 +10,7 @@ brew install ducheharsh/tap/hearth
 brew services start hearth
 
 # Or the menu bar app (includes the daemon)
+brew trust ducheharsh/tap            # newer Homebrew asks before loading third-party casks
 brew install --cask ducheharsh/tap/hearth-app
 ```
 
