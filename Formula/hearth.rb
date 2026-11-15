@@ -1,8 +1,8 @@
 class Hearth < Formula
   desc "Home server for your Mac: one-click apps, backups, safe updates and one login"
   homepage "https://github.com/ducheharsh/hearth"
-  url "https://github.com/ducheharsh/hearth/releases/download/v0.1.6/hearthd-0.1.6-aarch64-apple-darwin.tar.gz"
-  sha256 "15bf4971eb6e9b489f22fa786228c83e71a55a6c81e551c8318288034f01b010"
+  url "https://github.com/ducheharsh/hearth/releases/download/v0.1.7/hearthd-0.1.7-aarch64-apple-darwin.tar.gz"
+  sha256 "b58bc2220c0a9ebd1d2cf4cee5661ed587a210393873eb15738ef99fae654abd"
 
   depends_on arch: :arm64
   depends_on :macos
